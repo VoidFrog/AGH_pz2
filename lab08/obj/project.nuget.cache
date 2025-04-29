@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "bM0puybK08W0Ltw8gY/zTQQZO35zNS4V72o/mUYoYQgwSD+vdr0/HuzTUyiGiSieRqV5s6E1hsowqduq3xc0nw==",
+  "success": true,
+  "projectFilePath": "D:\\AGH\\sem4_ISI\\pz2\\AGH_pz2\\lab08\\lab08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.data.sqlite\\9.0.4\\microsoft.data.sqlite.9.0.4.nupkg.sha512",
+    "C:\\Users\\OEM\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.4\\microsoft.data.sqlite.core.9.0.4.nupkg.sha512",
+    "C:\\Users\\OEM\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\OEM\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\OEM\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\OEM\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\OEM\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
