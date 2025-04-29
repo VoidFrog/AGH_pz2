@@ -1,0 +1,15 @@
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\bin\Debug\net7.0\lab07.exe
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\bin\Debug\net7.0\lab07.deps.json
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\bin\Debug\net7.0\lab07.runtimeconfig.json
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\bin\Debug\net7.0\lab07.dll
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\bin\Debug\net7.0\lab07.pdb
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.csproj.AssemblyReference.cache
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.GeneratedMSBuildEditorConfig.editorconfig
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.AssemblyInfoInputs.cache
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.AssemblyInfo.cs
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.csproj.CoreCompileInputs.cache
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.dll
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\refint\lab07.dll
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.pdb
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\lab07.genruntimeconfig.cache
+D:\AGH\sem4_ISI\pz2\AGH_pz2\lab07\obj\Debug\net7.0\ref\lab07.dll
