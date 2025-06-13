@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            @if (Context.Session.GetString("Zalogowany") == "true")
+            {
+                <li><a href="/Dane/Index">Dane</a></li>
+                <li>
+                    <form method="post" action="/IO/Wyloguj">
+                        <button type="submit">Wyloguj</button>
+                    </form>
+                </li>
+            }
+            else
+            {
+                <li><a href="/IO/Logowanie">Logowanie</a></li>
+            }
+        </ul>
+    </nav>
+</header>
+
+<main>
+    @RenderBody()
+</main>
+</body>
+</html>

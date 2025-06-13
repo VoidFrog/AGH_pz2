@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Logowanie";
+}
+
+<h2>Logowanie</h2>
+
+<form method="post">
+    <input type="text" name="login" placeholder="Login" />
+    <input type="password" name="haslo" placeholder="Hasło" />
+    <button type="submit">Zaloguj</button>
+</form>
+
+@if (ViewBag.Blad != null)
+{
+    <p style="color:red;">@ViewBag.Blad</p>
+}

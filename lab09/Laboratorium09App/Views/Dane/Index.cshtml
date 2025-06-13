@@ -1,0 +1,15 @@
+@model List<Laboratorium09App.Models.Dane>
+
+<h2>Lista danych</h2>
+
+<form method="post" asp-action="Dodaj">
+    <input type="text" name="tresc" placeholder="Wpisz dane" />
+    <button type="submit">Dodaj</button>
+</form>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Tresc</li>
+    }
+</ul>
